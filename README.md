@@ -100,7 +100,7 @@ chatgroq-rag/
 Feel free to connect:
 
 * 💼 [LinkedIn – Ankit Porwal](https://www.linkedin.com/in/ankitporwal04)
-* 📧 [ankit.email@example.com](mailto:ankitporwal4403@gmail.com)
+* 📧 [Ankit Porwal - Email](mailto:ankitporwal4403@gmail.com)
 
 ---
 
