@@ -1,7 +1,3 @@
-Absolutely, Ankit! Here's a clean and professional `README.md` file tailored for your **RAG project using Streamlit, LangChain, Groq, FAISS, and Ollama embeddings** — ready to be published on GitHub.
-
----
-
 ````markdown
 # 🔍 ChatGroq RAG Chatbot
 
@@ -94,12 +90,6 @@ chatgroq-rag/
 4. User submits a question through the Streamlit interface.
 5. LangChain’s retrieval chain fetches the most relevant chunks.
 6. The selected LLM (via Groq API) answers based on the retrieved context.
-
----
-
-## 🌐 Live Demo
-
-*Coming soon...*
 
 ---
 
