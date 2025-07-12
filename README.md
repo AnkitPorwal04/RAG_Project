@@ -78,7 +78,7 @@ chatgroq-rag/
 
 ## 📸 Preview
 
-![ChatGroq Screenshot](your-screenshot-path.png)
+<img width="1919" height="616" alt="Screenshot 2025-07-12 223830" src="https://github.com/user-attachments/assets/98823251-4e75-44b6-b075-6477652f0b73" />
 
 ---
 
