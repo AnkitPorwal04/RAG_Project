@@ -1,7 +1,9 @@
-````markdown
+1. **Introduction**
+````
 # 🔍 ChatGroq RAG Chatbot
 
-A **Retrieval-Augmented Generation (RAG)** web application powered by **Streamlit**, **LangChain**, **Groq's LLMs**, and **FAISS**, designed to allow real-time question answering from custom document sources or live websites.
+A **Retrieval-Augmented Generation (RAG)** web application powered by **Streamlit**, **LangChain**, **Groq's LLMs**, and **FAISS**,
+designed to allow real-time question answering from custom document sources or live websites.
 
 Built by **Ankit Porwal**.
 
