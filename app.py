@@ -15,7 +15,7 @@ load_dotenv()
 ## load the Groq API key
 groq_api_key=os.environ['GROQ_API_KEY']
 
-if "vector" not in st.session_state:
+if "vectors" not in st.session_state:
     st.session_state.embeddings=OllamaEmbeddings()
     # I will be reading content from this website: https://docs.smith.langchain.com/
     st.session_state.loader=WebBaseLoader("https://www.geeksforgeeks.org/machine-learning/build-chatbot-webapp-with-langchain/")
